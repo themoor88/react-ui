@@ -1,0 +1,19 @@
+{
+  "name": "react-ui",
+  "version": "0.0.1",
+  "description": "Playing around with React elements.",
+  "main": "calendar.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themoor88/react-ui.git"
+  },
+  "author": "Wajid Kagzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/themoor88/react-ui/issues"
+  },
+  "homepage": "https://github.com/themoor88/react-ui#readme"
+}
